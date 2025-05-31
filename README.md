@@ -1,5 +1,4 @@
-# smart-sensor-routing
-# energy-optimization
+# Smart-sensor-routing
 This project focuses on the simulation and analysis of a **Wireless Sensor Network (WSN)** using Python. It models node deployment, connectivity, communication range, and possibly routing behavior in a simulated environment.
 
 ## Project goals
